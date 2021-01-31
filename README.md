@@ -1,2 +1,1 @@
-# learn
-learn
+print("hello world")
